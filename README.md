@@ -1,5 +1,3 @@
-# kentatanizawa-profile-page
-
 ## Build Setup
 
 ```bash
