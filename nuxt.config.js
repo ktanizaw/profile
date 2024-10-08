@@ -71,6 +71,6 @@ export default {
   build: {},
 
   router: {
-    base: "/",
+    base: "/profile/",
   },
 };
