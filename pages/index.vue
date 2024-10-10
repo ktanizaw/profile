@@ -8,7 +8,7 @@ const toExternalLink = (link: string) => {
   <v-row justify="center" align="center">
     <v-col cols="12" sm="8" md="6" class="contents text-center">
       <v-img
-        src="/profile-icon.png"
+        src="/profile/profile-icon.png"
         alt="profile-image"
         height="100"
         width="100"
