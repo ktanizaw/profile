@@ -75,6 +75,6 @@ const toExternalLink = (link: string) => {
   padding-top: 30px;
 }
 .button-text {
-  text-transform: none; /* 大文字変換を無効化 */
+  text-transform: none;
 }
 </style>
