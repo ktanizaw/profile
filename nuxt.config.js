@@ -20,7 +20,7 @@ export default {
       { hid: "description", name: "description", content: "" },
       { name: "format-detection", content: "telephone=no" },
     ],
-    link: [{ rel: "icon", type: "image/x-icon", href: "/profile/favicon.ico" }],
+    link: [{ rel: "icon", type: "image/x-icon", href: "/kentatanizawa/favicon.ico" }],
   },
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
@@ -63,6 +63,6 @@ export default {
   build: {},
 
   router: {
-    base: "/profile/",
+    base: "/kentatanizawa/",
   },
 };
