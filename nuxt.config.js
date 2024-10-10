@@ -65,4 +65,8 @@ export default {
   router: {
     base: "/profile/",
   },
+
+  generate: {
+    dir: 'docs'
+  }
 };
