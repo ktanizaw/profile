@@ -10,7 +10,6 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
-    "@mdi/font": "^7.4.47",
     "core-js": "^3.25.3",
     "nuxt": "^2.15.8",
     "vue": "^2.7.10",
